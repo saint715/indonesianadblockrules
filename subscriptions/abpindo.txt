@@ -886,3 +886,11 @@ cinema81.com##img[width="680"][height="90"]
 @@||oploverz.net^$elemhide
 @@||wardhanime.net^$elemhide
 @@||www2.melon.co.id/js/libs/angulartics-google-analytics.js
+##IMG[class="cintasemprot_f"]
+##DIV[id="cintasemprot_side_right"]
+##DIV[id="cintasemprot_side_left"]
+##DIV[class="cintasemprot_floating_banner_bottom"]
+##DIV[class="cintasemprot_floating_banner_top"]
+##DIV[style="margin:0;padding:0;text-align:center;width:100%"]
+##TABLE[class="tborder"][height="872"]
+##DIV[id="ad_global_below_navbar"]
